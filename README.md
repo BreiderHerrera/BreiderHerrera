@@ -24,8 +24,7 @@
 
 <img src="https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,html,css,javascript,express,mongodb,mysql,nextjs,nodejs,postman,ts,discord,vscode,figma,github&perline=16" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,html,css,javascript,ts,mysql,nodejs,postman,discord,vscode,github&perline=16" />
 </a>
-
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
